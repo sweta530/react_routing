@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.nav-bar li{
+  padding: 10px;
+  display: inline;
+  font-size: large;
+}
+
+.nav-bar .active {
+  background-color: lightgray;
+}
